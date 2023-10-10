@@ -1,6 +1,3 @@
-# android-currency-converter
- this app let you convert USD to multiple other currencies
-
  <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
 # AND101 Project 4 - CodeMath
